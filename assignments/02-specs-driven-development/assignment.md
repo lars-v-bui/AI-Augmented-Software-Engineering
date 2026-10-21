@@ -8,7 +8,7 @@ You'll build a small feature the **spec-driven** way using GitHub's
 **how**, then let your coding agent implement against the spec and iterate until it
 *converges*. The point is the **process** and the durable spec artifacts, not the app.
 
-To keep this to ~3 hours, the feature is **pre-scoped** for you (below).
+To keep this to ~4 HOURS, the feature is **pre-scoped** for you (below).
 
 ## Learning goals
 - Run the Spec Kit loop: **constitution → specify → plan → tasks → implement → converge**.
